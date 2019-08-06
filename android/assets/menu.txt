@@ -1,0 +1,47 @@
+menu.png
+size: 932, 508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnPlayDown
+  rotate: false
+  xy: 1, 228
+  size: 464, 133
+  orig: 464, 134
+  offset: 0, 0
+  index: -1
+btnPlayUp
+  rotate: false
+  xy: 1, 363
+  size: 464, 143
+  orig: 464, 143
+  offset: 0, 0
+  index: -1
+btnSignDown
+  rotate: false
+  xy: 467, 228
+  size: 464, 134
+  orig: 464, 134
+  offset: 0, 0
+  index: -1
+btnSignUp
+  rotate: false
+  xy: 467, 364
+  size: 464, 143
+  orig: 464, 143
+  offset: 0, 0
+  index: -1
+signBox
+  rotate: false
+  xy: 1, 104
+  size: 820, 122
+  orig: 821, 123
+  offset: 1, 1
+  index: -1
+signText
+  rotate: false
+  xy: 1, 1
+  size: 546, 101
+  orig: 548, 101
+  offset: 2, 0
+  index: -1

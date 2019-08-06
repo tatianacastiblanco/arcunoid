@@ -1,0 +1,19 @@
+scores.png
+size: 468, 284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnScoresDown
+  rotate: false
+  xy: 1, 147
+  size: 465, 136
+  orig: 466, 136
+  offset: 1, 0
+  index: -1
+btnScoresUp
+  rotate: false
+  xy: 1, 1
+  size: 466, 144
+  orig: 466, 144
+  offset: 0, 0
+  index: -1

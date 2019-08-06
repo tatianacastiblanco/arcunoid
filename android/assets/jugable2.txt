@@ -1,0 +1,68 @@
+jugable2.png
+size: 244, 790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 180, 716
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+nave-centro-extendido
+  rotate: false
+  xy: 1, 1
+  size: 241, 73
+  orig: 241, 73
+  offset: 0, 0
+  index: -1
+nave-centro
+  rotate: false
+  xy: 1, 716
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+nave-lado-izq
+  rotate: true
+  xy: 99, 716
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+poder-adaptabilidad
+  rotate: false
+  xy: 1, 76
+  size: 195, 126
+  orig: 195, 126
+  offset: 0, 0
+  index: -1
+poder-compromiso
+  rotate: false
+  xy: 1, 588
+  size: 194, 126
+  orig: 195, 126
+  offset: 1, 0
+  index: -1
+poder-creatividad
+  rotate: false
+  xy: 1, 204
+  size: 195, 126
+  orig: 195, 126
+  offset: 0, 0
+  index: -1
+poder-respeto
+  rotate: false
+  xy: 1, 332
+  size: 195, 126
+  orig: 195, 126
+  offset: 0, 0
+  index: -1
+poder-tolerancia
+  rotate: false
+  xy: 1, 460
+  size: 195, 126
+  orig: 195, 126
+  offset: 0, 0
+  index: -1

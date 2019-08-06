@@ -1,0 +1,68 @@
+historia1.png
+size: 873, 723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+comenzar
+  rotate: true
+  xy: 356, 1
+  size: 560, 153
+  orig: 560, 153
+  offset: 0, 0
+  index: -1
+efecto
+  rotate: false
+  xy: 356, 563
+  size: 213, 138
+  orig: 256, 150
+  offset: 24, 8
+  index: -1
+lineas-de-nave
+  rotate: false
+  xy: 571, 95
+  size: 254, 220
+  orig: 271, 249
+  offset: 11, 17
+  index: -1
+mano
+  rotate: true
+  xy: 571, 558
+  size: 132, 207
+  orig: 132, 208
+  offset: 0, 0
+  index: -1
+meteoro
+  rotate: false
+  xy: 511, 317
+  size: 237, 239
+  orig: 244, 239
+  offset: 7, 0
+  index: -1
+naveGrande
+  rotate: true
+  xy: 1, 1
+  size: 721, 353
+  orig: 746, 380
+  offset: 14, 13
+  index: -1
+omitir
+  rotate: true
+  xy: 780, 317
+  size: 207, 92
+  orig: 207, 92
+  offset: 0, 0
+  index: -1
+parcheNave
+  rotate: true
+  xy: 780, 526
+  size: 173, 81
+  orig: 197, 94
+  offset: 14, 6
+  index: -1
+siguiente
+  rotate: false
+  xy: 511, 1
+  size: 319, 92
+  orig: 319, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+fondo.png
+size: 949, 1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asteroide
+  rotate: false
+  xy: 586, 593
+  size: 179, 201
+  orig: 182, 205
+  offset: 2, 2
+  index: -1
+cometa
+  rotate: false
+  xy: 586, 796
+  size: 173, 187
+  orig: 173, 189
+  offset: 0, 2
+  index: -1
+estrella
+  rotate: true
+  xy: 626, 358
+  size: 233, 235
+  orig: 249, 246
+  offset: 8, 5
+  index: -1
+nebulosa
+  rotate: true
+  xy: 1, 537
+  size: 478, 583
+  orig: 549, 601
+  offset: 32, 1
+  index: -1
+planeta1
+  rotate: false
+  xy: 1, 1
+  size: 623, 534
+  orig: 623, 598
+  offset: 0, 10
+  index: -1
+planeta2
+  rotate: true
+  xy: 626, 1
+  size: 159, 322
+  orig: 178, 365
+  offset: 2, 5
+  index: -1
+planeta3
+  rotate: true
+  xy: 761, 796
+  size: 180, 177
+  orig: 195, 196
+  offset: 6, 3
+  index: -1
+planeta4
+  rotate: false
+  xy: 626, 162
+  size: 244, 194
+  orig: 244, 196
+  offset: 0, 1
+  index: -1

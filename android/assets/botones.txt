@@ -1,0 +1,61 @@
+botones.png
+size: 1872, 284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnContinueDown
+  rotate: false
+  xy: 1, 1
+  size: 465, 136
+  orig: 466, 136
+  offset: 1, 0
+  index: -1
+btnContinueUp
+  rotate: false
+  xy: 1, 139
+  size: 466, 144
+  orig: 466, 144
+  offset: 0, 0
+  index: -1
+btnReplayDown
+  rotate: false
+  xy: 468, 1
+  size: 466, 136
+  orig: 466, 136
+  offset: 0, 0
+  index: -1
+btnReplayUp
+  rotate: false
+  xy: 469, 139
+  size: 466, 144
+  orig: 466, 144
+  offset: 0, 0
+  index: -1
+btnScoresDown
+  rotate: false
+  xy: 936, 1
+  size: 465, 136
+  orig: 466, 136
+  offset: 1, 0
+  index: -1
+btnScoresUp
+  rotate: false
+  xy: 937, 139
+  size: 466, 144
+  orig: 466, 144
+  offset: 0, 0
+  index: -1
+btnStartDown
+  rotate: false
+  xy: 1403, 1
+  size: 466, 136
+  orig: 466, 136
+  offset: 0, 0
+  index: -1
+btnStartUp
+  rotate: false
+  xy: 1405, 139
+  size: 466, 144
+  orig: 466, 144
+  offset: 0, 0
+  index: -1

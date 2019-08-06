@@ -1,0 +1,61 @@
+historia3.png
+size: 746, 769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+contenido-panel-2-1
+  rotate: false
+  xy: 1, 1
+  size: 429, 335
+  orig: 439, 335
+  offset: 0, 0
+  index: -1
+contenido-panel-2-2
+  rotate: true
+  xy: 267, 338
+  size: 398, 208
+  orig: 408, 220
+  offset: 5, 3
+  index: -1
+contenido-panel-2-3
+  rotate: true
+  xy: 477, 289
+  size: 300, 175
+  orig: 337, 191
+  offset: 31, 8
+  index: -1
+cuadro-paneles
+  rotate: true
+  xy: 1, 338
+  size: 430, 264
+  orig: 430, 265
+  offset: 0, 0
+  index: -1
+linea-panel-2-1
+  rotate: true
+  xy: 267, 738
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+linea-panel-2-2
+  rotate: true
+  xy: 477, 591
+  size: 128, 262
+  orig: 128, 263
+  offset: 0, 0
+  index: -1
+linea-panel-2-3
+  rotate: true
+  xy: 654, 289
+  size: 250, 91
+  orig: 250, 92
+  offset: 0, 0
+  index: -1
+patron
+  rotate: false
+  xy: 432, 1
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1

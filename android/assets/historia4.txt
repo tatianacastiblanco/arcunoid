@@ -1,0 +1,26 @@
+historia4.png
+size: 990, 931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+galaxia
+  rotate: false
+  xy: 1, 1
+  size: 861, 530
+  orig: 861, 544
+  offset: 0, 14
+  index: -1
+ganaste
+  rotate: true
+  xy: 864, 1
+  size: 589, 125
+  orig: 595, 126
+  offset: 3, 0
+  index: -1
+nave
+  rotate: true
+  xy: 1, 533
+  size: 397, 417
+  orig: 407, 420
+  offset: 4, 3
+  index: -1
