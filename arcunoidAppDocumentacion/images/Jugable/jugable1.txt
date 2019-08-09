@@ -1,0 +1,75 @@
+C:/Users/CUN/Pictures/arCunoid/Nuevo/Jugable/jugable1.png
+size: 777, 465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amarillo
+  rotate: true
+  xy: 608, 377
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+azul
+  rotate: true
+  xy: 1, 394
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+blanco
+  rotate: true
+  xy: 93, 394
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+fucsia
+  rotate: true
+  xy: 185, 394
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+ganaste
+  rotate: false
+  xy: 1, 143
+  size: 589, 125
+  orig: 595, 126
+  offset: 3, 0
+  index: -1
+gris
+  rotate: true
+  xy: 277, 394
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+pausa
+  rotate: true
+  xy: 647, 1
+  size: 374, 129
+  orig: 377, 130
+  offset: 2, 0
+  index: -1
+perdiste
+  rotate: false
+  xy: 1, 270
+  size: 605, 122
+  orig: 607, 122
+  offset: 1, 0
+  index: -1
+puntajes
+  rotate: false
+  xy: 1, 1
+  size: 644, 140
+  orig: 651, 142
+  offset: 7, 2
+  index: -1
+verde
+  rotate: true
+  xy: 369, 394
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
