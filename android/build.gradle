@@ -1,5 +1,4 @@
 android {
-    buildToolsVersion "26.0.0"
     compileSdkVersion 26
     sourceSets {
         main {
@@ -12,7 +11,7 @@ android {
             jniLibs.srcDirs = ['libs']
         }
 
-        instrumentTest.setRoot('tests')
+        androidTest.setRoot('tests')
     }
     packagingOptions {
         exclude 'META-INF/robovm/ios/robovm.xml'
@@ -96,7 +95,6 @@ eclipse {
     }
 
     classpath {
-        plusConfigurations += [project.configurations.compile]
         containers 'com.android.ide.eclipse.adt.ANDROID_FRAMEWORK', 'com.android.ide.eclipse.adt.LIBRARIES'
     }
 
@@ -114,7 +112,6 @@ eclipse {
 idea {
     module {
         sourceDirs += file("src");
-        scopes = [COMPILE: [plus: [project.configurations.compile]]]
 
         iml {
             withXml {
